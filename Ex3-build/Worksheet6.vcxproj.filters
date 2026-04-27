@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files\Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\ModelPart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\ModelPartList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\optiondialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files\Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files\Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files\Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\ModelPart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\ModelPartList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\optiondialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_Debug\ui_optiondialog.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_Release\ui_optiondialog.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_MinSizeRel\ui_optiondialog.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\include_RelWithDebInfo\ui_optiondialog.h">
+      <Filter>Source Files\Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\CMakeFiles\93a9fc2c7c03aca248ae3134979e1e3e\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\mainwindow.ui" />
+    <None Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\optiondialog.ui" />
+    <None Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Exercise3\resources.qrc" />
+    <None Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\autouic_Debug.stamp">
+      <Filter>Source Files\Generated</Filter>
+    </None>
+    <None Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\autouic_Release.stamp">
+      <Filter>Source Files\Generated</Filter>
+    </None>
+    <None Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\autouic_MinSizeRel.stamp">
+      <Filter>Source Files\Generated</Filter>
+    </None>
+    <None Include="C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build\Worksheet6_autogen\autouic_RelWithDebInfo.stamp">
+      <Filter>Source Files\Generated</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EE6E4EA3-4FEA-39A4-A442-D76D39F2BA3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A07F0E7A-BA2D-3F23-9652-CEBA90333071}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9A3125CF-ED04-33DA-B8B5-D5346F7905B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Generated">
+      <UniqueIdentifier>{23E570DC-C535-3018-8717-2C0D930167C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
