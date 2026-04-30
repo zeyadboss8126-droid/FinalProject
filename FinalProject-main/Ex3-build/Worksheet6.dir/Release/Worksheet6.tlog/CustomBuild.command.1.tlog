@@ -1,0 +1,22 @@
+^C:\USERS\ZEYAD\GIT\2025_20678032\WORKSHEET7\EX3-BUILD\CMAKEFILES\93A9FC2C7C03ACA248AE3134979E1E3E\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd C:\Users\zeyad\git\2025_20678032\Worksheet7\Ex3-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ZEYAD\GIT\2025_20678032\WORKSHEET7\EXERCISE3\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/zeyad/git/2025_20678032/Worksheet7/Exercise3 -BC:/Users/zeyad/git/2025_20678032/Worksheet7/Ex3-build --check-stamp-file C:/Users/zeyad/git/2025_20678032/Worksheet7/Ex3-build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Worksheet6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VRBindings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VRBindings-Debug-e4b98df9c60def573a5a.json",
+					"name" : "VRBindings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Worksheet6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Worksheet6-Debug-76f0b4db9cac11ad5619.json",
+					"name" : "Worksheet6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Worksheet6_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Worksheet6_autogen-Debug-b96b62ef543b18534ec1.json",
+					"name" : "Worksheet6_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Worksheet6_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Worksheet6_autogen_timestamp_deps-Debug-a2881bd179ddd46c6960.json",
+					"name" : "Worksheet6_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/papas/Downloads/FinalProject-main/FinalProject-main/Exercise3/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/papas/Downloads/FinalProject-main/FinalProject-main/Exercise3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

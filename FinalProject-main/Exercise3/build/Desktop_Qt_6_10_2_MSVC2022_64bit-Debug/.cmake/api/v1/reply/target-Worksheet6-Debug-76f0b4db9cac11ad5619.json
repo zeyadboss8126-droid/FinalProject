@@ -1,0 +1,1185 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Worksheet6.exe"
+		},
+		{
+			"path" : "Worksheet6.pdb"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"target_compile_definitions",
+			"vtk_module_autoinit",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake",
+			"build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
+			"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+			"C:/Program Files (x86)/VTK/lib/cmake/vtk-9.6/VTK-targets.cmake",
+			"C:/Program Files (x86)/VTK/lib/cmake/vtk-9.6/vtk-config.cmake",
+			"C:/Program Files (x86)/VTK/lib/cmake/vtk-9.6/vtkModule.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1014,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 673,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 749,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"file" : 3,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 52,
+				"parent" : 8
+			},
+			{
+				"file" : 2,
+				"parent" : 9
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 61,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"file" : 6,
+				"parent" : 12
+			},
+			{
+				"command" : 6,
+				"file" : 6,
+				"line" : 52,
+				"parent" : 13
+			},
+			{
+				"file" : 5,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 61,
+				"parent" : 15
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 674,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"file" : 8,
+				"parent" : 18
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 54,
+				"parent" : 19
+			},
+			{
+				"file" : 7,
+				"parent" : 20
+			},
+			{
+				"command" : 5,
+				"file" : 7,
+				"line" : 61,
+				"parent" : 21
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 42,
+				"parent" : 19
+			},
+			{
+				"file" : 13,
+				"parent" : 23
+			},
+			{
+				"command" : 9,
+				"file" : 13,
+				"line" : 51,
+				"parent" : 24
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 142,
+				"parent" : 25
+			},
+			{
+				"command" : 7,
+				"file" : 11,
+				"line" : 76,
+				"parent" : 26
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 27
+			},
+			{
+				"file" : 10,
+				"parent" : 28
+			},
+			{
+				"command" : 6,
+				"file" : 10,
+				"line" : 52,
+				"parent" : 29
+			},
+			{
+				"file" : 9,
+				"parent" : 30
+			},
+			{
+				"command" : 5,
+				"file" : 9,
+				"line" : 61,
+				"parent" : 31
+			},
+			{
+				"command" : 5,
+				"file" : 9,
+				"line" : 87,
+				"parent" : 31
+			},
+			{
+				"command" : 6,
+				"file" : 6,
+				"line" : 40,
+				"parent" : 13
+			},
+			{
+				"file" : 16,
+				"parent" : 34
+			},
+			{
+				"command" : 9,
+				"file" : 16,
+				"line" : 50,
+				"parent" : 35
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 142,
+				"parent" : 36
+			},
+			{
+				"command" : 7,
+				"file" : 11,
+				"line" : 76,
+				"parent" : 37
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 38
+			},
+			{
+				"file" : 15,
+				"parent" : 39
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 52,
+				"parent" : 40
+			},
+			{
+				"file" : 14,
+				"parent" : 41
+			},
+			{
+				"command" : 5,
+				"file" : 14,
+				"line" : 61,
+				"parent" : 42
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 340,
+				"parent" : 44
+			},
+			{
+				"file" : 18,
+				"parent" : 45
+			},
+			{
+				"command" : 6,
+				"file" : 18,
+				"line" : 148,
+				"parent" : 46
+			},
+			{
+				"file" : 17,
+				"parent" : 47
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 2903,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 3073,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 2465,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 2078,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 2044,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 2431,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 3039,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 1724,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 2699,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 1687,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 1580,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 2971,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 910,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 1651,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 1376,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 944,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 602,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 409,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 330,
+				"parent" : 48
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 285,
+				"parent" : 48
+			},
+			{
+				"command" : 11,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 19,
+				"line" : 3527,
+				"parent" : 69
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd"
+				},
+				{
+					"backtrace" : 17,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 17,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 17,
+					"fragment" : "-utf-8"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "FMT_SHARED"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "GLAD_API_CALL_EXPORT"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "KISSFFT_DLL_IMPORT=1"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_OPENGLWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "SCN_DISABLE_FAST_FLOAT=0"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "SCN_DISABLE_REGEX=0"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "SCN_REGEX_BACKEND=0"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "_WIN64"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "kiss_fft_scalar=double"
+				},
+				{
+					"backtrace" : 70,
+					"define" : "vtkRenderingCore_AUTOINIT_INCLUDE=\"C:/Users/papas/Downloads/FinalProject-main/FinalProject-main/Exercise3/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/vtkModuleAutoInit_be7301261a49b13d6a9b1d9e110eacd8.h\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/papas/Downloads/FinalProject-main/FinalProject-main/Exercise3/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Worksheet6_autogen/include"
+				},
+				{
+					"backtrace" : 71,
+					"isSystem" : true,
+					"path" : "C:/OpenVR/headers"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.10.2/msvc2022_64/include/QtCore"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.10.2/msvc2022_64/include"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.10.2/msvc2022_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.10.2/msvc2022_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.10.2/msvc2022_64/include/QtGui"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.10.2/msvc2022_64/include/QtOpenGLWidgets"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.10.2/msvc2022_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtkfmt"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtknlohmannjson/include"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtknlohmannjson"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtkscn/include"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtkscn"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/token"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtkkissfft"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtkglad"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtkfreetype/include"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/VTK/include/vtk-9.6/vtkzlib"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					17,
+					17,
+					5
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				5,
+				7,
+				9
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "Worksheet6_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Worksheet6_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "Worksheet6::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:windows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingQt-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkGUISupportQt-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkIOGeometry-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingOpenVR-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\OpenVR\\lib\\win64\\openvr_api.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Qt\\6.10.2\\msvc2022_64\\lib\\Qt6OpenGLWidgetsd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Qt\\6.10.2\\msvc2022_64\\lib\\Qt6Widgetsd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "C:\\Qt\\6.10.2\\msvc2022_64\\lib\\Qt6OpenGLd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "C:\\Qt\\6.10.2\\msvc2022_64\\lib\\Qt6Guid.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "C:\\Qt\\6.10.2\\msvc2022_64\\lib\\Qt6Cored.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "mpr.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "userenv.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "C:\\Qt\\6.10.2\\msvc2022_64\\lib\\Qt6EntryPointd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "shell32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "d3d11.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "dxgi.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "dxguid.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "d3d12.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 49,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingLabel-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingVR-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 51,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkInteractionWidgets-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkInteractionStyle-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkIOLegacy-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkIOCellGrid-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 53,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkFiltersCellGrid-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingContext2D-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 55,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingVRModels-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingVolumeOpenGL2-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingOpenGL2-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkIOImage-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingHyperTreeGrid-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingUI-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingFreeType-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 58,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkfreetype-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkglad-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkx11-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 59,
+				"fragment" : "opengl32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 60,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkImagingMath-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 60,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingVolume-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkRenderingCore-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkFiltersSources-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkFiltersGeneral-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 61,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkFiltersCore-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "C:\\OpenVR\\lib\\win64\\openvr_api.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkIOXMLParser-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkIOCore-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 62,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkzlib-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 63,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkImagingCore-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 64,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkCommonExecutionModel-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkCommonDataModel-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 65,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkCommonTransforms-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 61,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkCommonMisc-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 65,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkCommonMath-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 66,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkkissfft-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkCommonCore-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkfmt-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtkscn-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtktoken-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "\"C:\\Program Files (x86)\\VTK\\lib\\vtksys-9.6d.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 68,
+				"fragment" : "ws2_32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 68,
+				"fragment" : "dbghelp.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 68,
+				"fragment" : "psapi.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Worksheet6",
+	"nameOnDisk" : "Worksheet6.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				5,
+				7,
+				9
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				6,
+				8,
+				10
+			]
+		},
+		{
+			"name" : "Forms",
+			"sourceIndexes" : 
+			[
+				4,
+				11
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				12
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				16
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Worksheet6_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "mainwindow.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "mainwindow.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "mainwindow.ui",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "ModelPart.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "ModelPart.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "ModelPartList.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "ModelPartList.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "optiondialog.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "optiondialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "optiondialog.ui",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 4,
+			"path" : "resources.qrc",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Worksheet6_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Worksheet6_autogen/include/ui_optiondialog.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Worksheet6_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Worksheet6_autogen/timestamp.rule",
+			"sourceGroupIndex" : 5
+		}
+	],
+	"type" : "EXECUTABLE"
+}
