@@ -1,0 +1,4 @@
+C:/Users/zeyad/git/2025_20678032/Worksheet7/Ex3-build/CMakeFiles/Worksheet6.dir
+C:/Users/zeyad/git/2025_20678032/Worksheet7/Ex3-build/CMakeFiles/VRBindings.dir
+C:/Users/zeyad/git/2025_20678032/Worksheet7/Ex3-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/zeyad/git/2025_20678032/Worksheet7/Ex3-build/CMakeFiles/ZERO_CHECK.dir
